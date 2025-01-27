@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", serif;
+}
+
+.card{
+    background-color: hsl(0, 0%, 12%);
+}
+
+#f-e{
+    color: hsl(0, 0%, 50%);
+    font-size: 14px;
+}
+#place{
+    color: hsl(75, 94%, 57%);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.btn{
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border: none;
+    font-weight: 600;
+    font-size: 14px;
+}
+.btn:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%) ;
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+
+.font-weight-bold{
+    font-weight: bold;
+}
