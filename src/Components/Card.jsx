@@ -5,7 +5,7 @@ function Card (){
 
     return(
             <div className="card text-light text-center m-auto py-4 mt-5 d-flex align-items-center justify-content-center " style={{width: '18rem'}}>
-                <img src="assets/images/avatar-jessica.jpeg" className="card-img-top rounded-circle w-25 " alt="..."/>
+                <img src="avatar-jessica.jpeg" className="card-img-top rounded-circle w-25 " alt="..."/>
                 <div className="card-body">
                     <h4 className="card-title font-weight-bold">Jesssica Randall</h4>
                     <p className="card-text" id="place">London, United Kingdom</p>
