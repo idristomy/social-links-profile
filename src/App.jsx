@@ -5,9 +5,9 @@ import Card from './Components/Card.jsx';
 
 function App() {
   return (
-    <>
-      <Card />
-    </>
+     <div className="d-flex align-items-center justify-content-center bd">
+        <Card />
+     </div>
   );
 }
 

@@ -9,6 +9,7 @@
 
 .card{
     background-color: hsl(0, 0%, 12%);
+    
 }
 
 #f-e{
@@ -36,7 +37,9 @@
 body{
     background-color: hsl(0, 0%, 8%);
 }
-
+.bd{
+    min-height: 100vh;
+}
 
 .font-weight-bold{
     font-weight: bold;
